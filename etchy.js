@@ -1,7 +1,7 @@
 window.etchy = (function () {
 	var canvas;
 	function Etchy(els){
-		console.log(els)
+		
 		parent = els;
 		canvas = document.createElement("canvas");
 		parent[0].appendChild(canvas)
@@ -22,19 +22,75 @@ window.etchy = (function () {
 		//drawLine(0,0,100,100,gfx)
 		//drawLine(200,50,10,100,gfx)
 		//drawCircle(canvasInfo,gfx)
+		els = "abcd"
+		drawString(els,canvasInfo)
 		drawA(canvasInfo)
 		
 	}
+	drawString = function(els,canvasInfo){
+		var curChar = ""
+		for (var i = 0; i < els.length; i++){
+			switch (els[i]){
+				case "a":
+					drawA(canvasInfo)
+					nextCharSpace(canvasInfo)
+					break;
+				case "b":
+					drawB(canvasInfo)
+					nextCharSpace(canvasInfo)
+					break;
+				case "c":
+					drawC(canvasInfo)
+					nextCharSpace(canvasInfo)
+					break;
+				case "d":
+					drawD(canvasInfo)
+					nextCharSpace(canvasInfo)
+					break;
+				default:
+					break;
+			}
+		}
+	}
+	nextCharSpace = function(canvasInfo){
+		canvasInfo.xStart += canvasInfo.charWidth + 20
+		canvasInfo.x = canvasInfo.xStart
+		canvasInfo.y = canvasInfo.yStart
+		canvasInfo.gfx.moveTo(canvasInfo.x,canvasInfo.y)
+	}
 	drawA = function(canvasInfo){
 		drawCircle(canvasInfo)
-		console.log (canvasInfo.x)
-		console.log(canvasInfo.y)
 		canvasInfo.gfx.moveTo(canvasInfo.xStart + canvasInfo.charWidth,canvasInfo.yStart + canvasInfo.charWidth/2)
 		canvasInfo.x = canvasInfo.xStart + canvasInfo.charWidth
 		canvasInfo.y = canvasInfo.yStart + canvasInfo.charWidth/2
 		quartDown(canvasInfo)
-		console.log (canvasInfo.x)
-		console.log(canvasInfo.y)
+	}
+	drawB = function(canvasInfo){
+		drawCircle(canvasInfo)
+		canvasInfo.gfx.moveTo(canvasInfo.xStart, canvasInfo.yStart - canvasInfo.charWidth / 4)
+		canvasInfo.x = canvasInfo.xStart
+		canvasInfo.y = canvasInfo.yStart - canvasInfo.charWidth / 4
+		quartDown(canvasInfo)
+		quartDown(canvasInfo)	
+	}
+	drawC = function(canvasInfo){
+		canvasInfo.x += 3*canvasInfo.charWidth / 4;
+		canvasInfo.gfx.moveTo(canvasInfo.x,canvasInfo.y)
+		halfStraightBack(canvasInfo)
+		diagLine(canvasInfo,-1,1)
+		quartDown(canvasInfo)
+		diagLine(canvasInfo,1,1)
+		halfStraight(canvasInfo)
+	}
+	drawD = function(canvasInfo){
+
+		drawCircle(canvasInfo)
+		canvasInfo.x = canvasInfo.xStart + canvasInfo.charWidth
+		canvasInfo.y = canvasInfo.yStart - canvasInfo.charWidth/2
+		canvasInfo.gfx.moveTo(canvasInfo.x,canvasInfo.y)
+		quartDown(canvasInfo)
+		quartDown(canvasInfo)
+		quartDown(canvasInfo)
 	}
 	Etchy.prototype.sketch = function(input){
 		var charWidth = canvas/input.length;
@@ -58,7 +114,6 @@ window.etchy = (function () {
 			},5*count,pos)
 		}
 	}*/
-		console.log("Before" + canvasInfo.y + "yMove" + yMove)
 		//yMove += 0.5
 		yMove = parseInt(yMove)
 		canvasInfo.gfx.lineTo(canvasInfo.x + xMove+ 0.0,canvasInfo.y+yMove+ 0.0)
@@ -66,7 +121,6 @@ window.etchy = (function () {
 		canvasInfo.gfx.moveTo(canvasInfo.x+xMove+ 0.0,canvasInfo.y+yMove + 0.0)
 		canvasInfo.x +=xMove
 		canvasInfo.y +=yMove	
-		console.log("After: " + canvasInfo.y)
 	}
 	
 	drawCircle = function(canvasInfo){
@@ -108,7 +162,7 @@ window.etchy = (function () {
 		y : 0
 	};
 	var count = 0;
-	console.log("x: " + pos.x)
+	
 	for (var x = 0; x < 100 * scale; x++){
 		for (var y = 0; y < 100 * scale; y++){
 			count++;
@@ -117,7 +171,7 @@ window.etchy = (function () {
 				gfx.lineTo(pos.x,pos.y)
 				gfx.stroke()
 				
-				console.log("x: " + pos.x)
+				
 				pos.x += 1;
 
 			},5*count,pos)
@@ -136,7 +190,6 @@ window.etchy = (function () {
 		return new Etchy(selector);
 	},
 	create: function(stuff){
-		console.log("stuff?")
 		//return new Etchy(stuff);
 	}
 	};
