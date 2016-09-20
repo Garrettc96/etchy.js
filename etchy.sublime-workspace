@@ -1,0 +1,828 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"canvas",
+				"canvasInfo"
+			],
+			[
+				"canv",
+				"canvasInfo"
+			],
+			[
+				"addre",
+				"addressRead"
+			],
+			[
+				"get",
+				"getViewport"
+			],
+			[
+				"friend",
+				"friendWrapper"
+			],
+			[
+				"frie",
+				"friendWrapper"
+			],
+			[
+				"sorted",
+				"sortedData"
+			],
+			[
+				"busi",
+				"businessesByCategory"
+			],
+			[
+				"filter",
+				"filteredBusinessName"
+			],
+			[
+				"list",
+				"listOfBizTypes"
+			],
+			[
+				"left",
+				"leftOffSet"
+			],
+			[
+				"background-",
+				"background-image"
+			],
+			[
+				"fill",
+				"fillCityResults"
+			],
+			[
+				"getPl",
+				"getPlaceCity"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"ourF",
+				"ourFriendsMoveLeft"
+			],
+			[
+				"font",
+				"font-style"
+			],
+			[
+				"border",
+				"border-radius"
+			],
+			[
+				"backgron",
+				"background-color"
+			],
+			[
+				"background",
+				"background-color"
+			],
+			[
+				"tab",
+				"tabPosition"
+			],
+			[
+				"tabP",
+				"tabPosition"
+			],
+			[
+				"tabPol",
+				"tabPolWidth"
+			],
+			[
+				"renew",
+				"renewableElectricity"
+			],
+			[
+				"rene",
+				"renewableElectricity"
+			],
+			[
+				"mouse",
+				"mouseenter"
+			],
+			[
+				"ren",
+				"renewableElectricity"
+			],
+			[
+				"rotea",
+				"rotateCarousel"
+			],
+			[
+				"list-s",
+				"list-style-type"
+			],
+			[
+				"list-",
+				"list-style-type"
+			],
+			[
+				"err",
+				"errorVisibility"
+			],
+			[
+				"biz",
+				"bizOptions"
+			],
+			[
+				"getpl",
+				"getPlaceZip"
+			],
+			[
+				"reg_",
+				"reg_pc"
+			],
+			[
+				"reg_config_",
+				"reg_config_ep"
+			],
+			[
+				"reg_conf",
+				"reg_config_be"
+			],
+			[
+				"Reg",
+				"RegConfigBe"
+			],
+			[
+				"text-",
+				"text-align"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"Lat",
+				"Lat"
+			],
+			[
+				"vis",
+				"visible"
+			],
+			[
+				"String",
+				"String"
+			],
+			[
+				"b",
+				"b"
+			],
+			[
+				"else",
+				"else"
+			],
+			[
+				"is",
+				"isUnsolvable"
+			],
+			[
+				"next",
+				"nextStates"
+			],
+			[
+				"nextState",
+				"nextStatesHelp"
+			],
+			[
+				"LT",
+				"LT"
+			],
+			[
+				"C",
+				"C"
+			],
+			[
+				"n",
+				"n"
+			],
+			[
+				"p",
+				"p"
+			],
+			[
+				"A",
+				"A"
+			],
+			[
+				"altern",
+				"alternateHelp"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "etchy.js",
+			"settings":
+			{
+				"buffer_size": 3050,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "test.html",
+			"settings":
+			{
+				"buffer_size": 248,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "test.js",
+			"settings":
+			{
+				"buffer_size": 103,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "dome.js",
+			"settings":
+			{
+				"buffer_size": 3199,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 101.0,
+		"last_filter": "vmen",
+		"selected_items":
+		[
+			[
+				"vmen",
+				"View: Toggle Menu"
+			]
+		],
+		"width": 490.0
+	},
+	"console":
+	{
+		"height": 176.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Garrett/Documents/dev/coffmanDesign/CoffmanDesign/app/views/projects/show.html.erb",
+		"/C/Users/Garrett/Documents/dev/coffmanDesign/CoffmanDesign/app/assets/stylesheets/projects.css.scss",
+		"/C/Users/Garrett/Documents/dev/coffmanDesign/CoffmanDesign/app/assets/javascripts/projects.js.coffee",
+		"/C/Users/Garrett/Documents/dev/coffmanDesign/CoffmanDesign/app/views/projects/_project_image_fields.html.erb",
+		"/C/Users/Garrett/Documents/dev/coffmanDesign/CoffmanDesign/public/assets/application.js",
+		"/C/Users/Garrett/Documents/dev/coffmanDesign/CoffmanDesign/app/assets/javascripts/application.js",
+		"/C/Users/Garrett/Dropbox/School/College/CS 230/quiz 2",
+		"/C/Users/Garrett/Documents/dev/coffmanDesign/coffmandesign-staging/app/assets/stylesheets/projects.css.scss",
+		"/C/Users/Garrett/Documents/dev/coffmanDesign/coffmandesign-staging/tmp/cache/sass/4e81b820d5d508177c1a5fcaced487a5449bcb03/projects.css.scssc",
+		"/C/Users/Garrett/Documents/dev/coffmanDesign/coffmandesign-staging/tmp/cache/sass/dade6a2fbf33ffe52f11f1f4aa85c541d70e331c/projects.css.scssc",
+		"/C/Users/Garrett/Documents/dev/etchy.js/dome.js",
+		"/C/Users/Garrett/Documents/MassEnergy/hoverMap/mockup.js",
+		"/C/Users/Garrett/Documents/dev/etchy.js/test.html",
+		"/C/Users/Garrett/Documents/dev/etchy.js/test.js",
+		"/C/Users/Garrett/Documents/dev/etchy.js/etchy.js",
+		"/C/Users/Garrett/Documents/dev/coffmanDesign/coffmandesign-staging/app/views/projects/show.html.erb",
+		"/C/Users/Garrett/Documents/dev/coffmanDesign/coffmandesign-staging/app/views/projects/_projectform.html.erb",
+		"/C/Users/Garrett/Documents/dev/coffmanDesign/coffmandesign-staging/app/views/projects/_project_image_fields.html.erb",
+		"/C/Users/Garrett/Documents/dev/coffmanDesign/CoffmanDesign/db/seeds.rb",
+		"/C/Users/Garrett/Documents/dev/coffmanDesign/CoffmanDesign/db/schema.rb",
+		"/C/Users/Garrett/Documents/dev/etchy.js/.gitignore.txt",
+		"/C/Users/Garrett/Documents/MassEnergy/hoverMap/mockup.html",
+		"/C/Users/Garrett/Documents/dev/coffmanDesign/CoffmanDesign/public/assets/application.css",
+		"/C/Users/Garrett/Documents/dev/coffmanDesign/CoffmanDesign/app/views/static_pages/about.html.erb",
+		"/C/Users/Garrett/Documents/dev/coffmanDesign/CoffmanDesign/app/controllers/projects_controller.rb",
+		"/C/Users/Garrett/Documents/dev/coffmanDesign/CoffmanDesign/app/controllers/application_controller.rb",
+		"/C/Users/Garrett/Documents/dev/coffmanDesign/CoffmanDesign/app/helpers/application_helper.rb",
+		"/C/Users/Garrett/Documents/dev/coffmanDesign/CoffmanDesign/app/helpers/projects_helper.rb",
+		"/C/Users/Garrett/Documents/dev/coffmanDesign/CoffmanDesign/app/helpers/sessions_helper.rb",
+		"/C/Users/Garrett/Documents/dev/coffmanDesign/CoffmanDesign/public/assets/general-6e15fa47370ad6277939e07b7ff03f4b.css",
+		"/C/Users/Garrett/Documents/dev/coffmanDesign/CoffmanDesign/public/assets/general.css",
+		"/C/Users/Garrett/Documents/dev/coffmanDesign/CoffmanDesign/config/environments/development.rb",
+		"/C/Users/Garrett/Documents/dev/coffmanDesign/coffmandesign-staging/app/views/layouts/application.html.erb",
+		"/C/Users/Garrett/Documents/dev/coffmanDesign/CoffmanDesign/app/controllers/sessions_controller.rb",
+		"/C/Users/Garrett/Documents/dev/coffmanDesign/CoffmanDesign/tmp/cache/sass/f14dbedef1629c97a486a6c67353828ed75ff8c0/projects.css.scssc",
+		"/C/Users/Garrett/Documents/dev/coffmanDesign/CoffmanDesign/tmp/cache/sass/760e07208b489a045a14c503f7d9ac31f7995c72/projects.css.scssc",
+		"/C/Users/Garrett/Documents/dev/coffmanDesign/CoffmanDesign/app/views/static_pages/home.html.erb",
+		"/C/Users/Garrett/Documents/dev/gb/JavaBoy-2-Unofficial-master/JavaBoy-2-Unofficial-master/TileBasedGraphicsChip.java",
+		"/C/Users/Garrett/Documents/dev/gb/JavaBoy-2-Unofficial-master/JavaBoy-2-Unofficial-master/GraphicsChip.java",
+		"/C/Users/Garrett/Documents/dev/gb/JavaBoy-2-Unofficial-master/JavaBoy-2-Unofficial-master/JavaBoy.java",
+		"/C/Users/Garrett/Documents/dev/gb/JavaBoy-2-Unofficial-master/JavaBoy-2-Unofficial-master/out.txt",
+		"/C/Users/Garrett/Documents/dev/gb/JavaBoy-2-Unofficial-master/JavaBoy-2-Unofficial-master/Dmgcpu.java",
+		"/C/Users/Garrett/Documents/dev/coffmanDesign/CoffmanDesign/config/environments/production.rb",
+		"/C/Users/Garrett/IdeaProjects/gameBoy/.gitignore.txt",
+		"/C/Users/Garrett/IdeaProjects/gameBoy/.git/config",
+		"/C/Users/Garrett/IdeaProjects/gameBoy/gitignore.txt",
+		"/C/Users/Garrett/IdeaProjects/gameBoy/src/com/company/Main.java",
+		"/C/Users/Garrett/Documents/dev/coffmanDesign/coffmandesign-staging/public/assets/general.css",
+		"/C/Users/Garrett/Documents/dev/coffmanDesign/coffmandesign-staging/app/assets/stylesheets/general.css",
+		"/C/Users/Garrett/Documents/dev/coffmanDesign/coffmandesign-staging/app/views/projects/index.html.erb",
+		"/C/Users/Garrett/Documents/dev/coffmanDesign/coffmandesign-staging/app/views/static_pages/home.html.erb",
+		"/C/Users/Garrett/Documents/dev/coffmanDesign/CoffmanDesign/app/assets/stylesheets/general.css",
+		"/C/Users/Garrett/Documents/dev/coffmanDesign/CoffmanDesign/app/assets/stylesheets/application.css",
+		"/C/Users/Garrett/Documents/dev/coffmanDesign/CoffmanDesign/app/models/project.rb",
+		"/C/Users/Garrett/IdeaProjects/gameBoy/out.txt",
+		"/C/Users/Garrett/Documents/dev/coffmanDesign/coffmandesign-staging/app/assets/stylesheets/application.css",
+		"/C/Users/Garrett/Documents/dev/coffmanDesign/CoffmanDesign/app/models/project_image.rb",
+		"/C/Users/Garrett/Documents/dev/coffmanDesign/CoffmanDesign/app/views/projects/_projectform.html.erb",
+		"/C/Users/Garrett/Documents/dev/coffmanDesign/coffmandesign-staging/db/schema.rb",
+		"/C/Users/Garrett/Documents/dev/coffmanDesign/coffmandesign-staging/config/database.yml",
+		"/C/Users/Garrett/Documents/dev/coffmanDesign/coffmandesign-staging/public/assets/application.css",
+		"/C/Users/Garrett/Documents/dev/coffmanDesign/coffmandesign-staging/public/assets/application-4460bab031f5b3d64777201f0bc8228a.js",
+		"/C/Users/Garrett/Documents/dev/coffmanDesign/coffmandesign-staging/public/assets/application-f565e6b9c70b8bab31b071494ede6d81.css",
+		"/C/Users/Garrett/Documents/dev/coffmanDesign/CoffmanDesign/app/views/projects/_projectlist.html.erb",
+		"/C/Users/Garrett/Documents/dev/coffmanDesign/coffmandesign-staging/public/assets/general-6e15fa47370ad6277939e07b7ff03f4b.css",
+		"/C/Users/Garrett/Documents/dev/coffmanDesign/CoffmanDesign/app/assets/javascripts/sessions.js.coffee",
+		"/C/Users/Garrett/Documents/dev/coffmanDesign/CoffmanDesign/app/assets/javascripts/static_pages.js",
+		"/C/Users/Garrett/Documents/dev/coffmanDesign/images/commercial_projects.txt",
+		"/C/Users/Garrett/Documents/dev/coffmanDesign/CoffmanDesign/public/422.html",
+		"/C/Users/Garrett/Documents/dev/coffmanDesign/CoffmanDesign/app/views/projects/new.html.erb",
+		"/C/Users/Garrett/Documents/dev/coffmanDesign/CoffmanDesign/app/views/projects/index.html.erb",
+		"/C/Users/Garrett/Documents/dev/coffmanDesign/CoffmanDesign/app/views/projects/edit.html.erb",
+		"/C/Users/Garrett/Documents/dev/coffmanDesign/CoffmanDesign/app/views/layouts/application.html.erb",
+		"/C/Users/Garrett/Documents/dev/test5/config/environments/production.rb",
+		"/C/Users/Garrett/Documents/dev/coffmanDesign/CoffmanDesign/app/views/layouts/_nav.html.erb",
+		"/C/Users/Garrett/Documents/dev/coffmanDesign/CoffmanDesign/app/views/layouts/_footer.html.erb",
+		"/C/Users/Garrett/Documents/dev/test5/config/environments/development.rb",
+		"/C/Users/Garrett/Documents/dev/test5/config/spring.rb",
+		"/C/Users/Garrett/Documents/dev/test10/config/environments/development.rb",
+		"/C/Users/Garrett/Documents/dev/coffmanDesign/CoffmanDesign/config/application.rb",
+		"/C/Users/Garrett/Documents/dev/coffmanDesign/CoffmanDesign/config/routes.rb",
+		"/C/Users/Garrett/Documents/dev/coffmanDesign/CoffmanDesign/app/assets/stylesheets/nav.css",
+		"/C/Users/Garrett/Documents/dev/coffmanDesign/CoffmanDesign/config/locales/en.yml",
+		"/C/Users/Garrett/Documents/dev/test5/config/environments/test.rb",
+		"/C/Users/Garrett/Documents/dev/test5/config/application.rb",
+		"/C/Users/Garrett/Documents/MassEnergy/Source_Slider/mockup.js",
+		"/C/Users/Garrett/Documents/MassEnergy/hoverMap/hoverMap/mockup.html",
+		"/C/Users/Garrett/Documents/MassEnergy/hoverMap/hoverMap/mockup.js",
+		"/C/Users/Garrett/Documents/MassEnergy/Main Changes/Mockups/Nav Mockup v4/Home Page v4 KDK/Home Page v4 KDK/mockup.js",
+		"/C/Users/Garrett/Documents/MassEnergy/GreenBiz/scripts.js",
+		"/C/Users/Garrett/Documents/MassEnergy/Main Changes/Mockups/Nav Mockup v4/Home Page v4 KDK/Home Page v4 KDK/mockup.html",
+		"/C/Users/Garrett/Documents/dev/gb/gameboy-master/gameboy-master/src/gameboy/Gameboy.java",
+		"/C/Users/Garrett/Documents/dev/gb/JavaBoy-2-Unofficial-master/JavaBoy-2-Unofficial-master/GameBoyScreen.java",
+		"/C/Users/Garrett/Documents/dev/blog5/config/database.yml",
+		"/C/Users/Garrett/Documents/dev/blog/config/environments/development.rb",
+		"/C/Users/Garrett/Documents/dev/test1/config/environments/development.rb",
+		"/C/Users/Garrett/Documents/dev/test1/config/database.yml",
+		"/C/Users/Garrett/Documents/dev/test1/Gemfile",
+		"/C/Users/Garrett/Documents/dev/blog5/config/application.rb",
+		"/C/Users/Garrett/Documents/dev/blog5/config/environments/development.rb",
+		"/C/Users/Garrett/Documents/dev/finance/config/environments/development.rb",
+		"/C/Users/Garrett/Documents/dev/Showfer/requirements.txt",
+		"/C/Users/Garrett/Documents/dev/gb/bgb/bgb.html",
+		"/C/Users/Garrett/Documents/dev/gb/GameLad-master/GameLad-master/README.md",
+		"/C/Users/Garrett/Documents/dev/gb/gameboy-master/gameboy-master/dist/README.TXT",
+		"/C/Users/Garrett/Documents/MassEnergy/GreenBiz/GreenBizv5(clean)/main.css",
+		"/C/Users/Garrett/Documents/MassEnergy/GreenBiz/GreenBizv5(clean)/mockUp.html",
+		"/C/Users/Garrett/Documents/MassEnergy/GreenBiz/GreenBizv5(clean)/scripts.js",
+		"/C/Users/Garrett/Documents/dev/gb/JavaBoy-2-Unofficial-master/JavaBoy-2-Unofficial-master/GPL.txt",
+		"/C/Users/Garrett/Documents/MassEnergy/Source_Slider/mockup.html",
+		"/C/Users/Garrett/Documents/MassEnergy/GreenBiz/GreenBizv6/mockUp.html",
+		"/C/Users/Garrett/Documents/MassEnergy/GreenBiz/GreenBizv6/scripts.js",
+		"/C/Users/Garrett/Documents/MassEnergy/GreenBiz/GreenBizv6/main.css",
+		"/C/Users/Garrett/Documents/MassEnergy/GreenBiz/GreenBizv6/papaparse.min.js",
+		"/C/Users/Garrett/Documents/MassEnergy/GreenBiz/main.css",
+		"/C/Users/Garrett/Documents/MassEnergy/GreenBiz/mockUp.html",
+		"/C/Users/Garrett/Documents/dev/gb/CPU.java",
+		"/C/Users/Garrett/Documents/MassEnergy/Source_Slider/mockup.css",
+		"/C/Users/Garrett/Documents/MassEnergy/hoverMap/mockup.css",
+		"/C/Users/Garrett/Documents/dev/gb/gb-emu/gb-emu-master/README.md",
+		"/C/Users/Garrett/Documents/dev/gb/gb-emu/gb-emu-master/src/main/java/tools/RomDebugger.java",
+		"/C/Users/Garrett/Documents/dev/gb/test/DrMario.dump",
+		"/C/Users/Garrett/Documents/dev/gb/test/DrMario.asm",
+		"/C/Users/Garrett/Documents/MassEnergy/Main Changes/Mockups/Nav Mockup v4/Home Page v4 KDK/Home Page v4 KDK/mockup.css",
+		"/C/Program Files (x86)/JetBrains/IntelliJ IDEA Community Edition 2016.1.3/bin/idea.properties",
+		"/C/Users/Garrett/Documents/idea.properties",
+		"/C/Users/Garrett/Documents/MassEnergy/Source_Slider/Source_Slider/mockup.html",
+		"/C/Users/Garrett/AppData/Local/Temp/Temp2_theme2.zip/theme2/css/theme2.css"
+	],
+	"find":
+	{
+		"height": 43.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"width",
+			"dome",
+			"{\n",
+			"div#",
+			"div#content",
+			"a{",
+			"a {",
+			"text-align",
+			"div#show-container",
+			"text-align",
+			"path",
+			"0xf0",
+			"f0",
+			"529",
+			"3e",
+			"out.",
+			"FileWriter",
+			"write",
+			"draw",
+			"getPlace",
+			"getPlaceCity",
+			"block",
+			"background",
+			"console",
+			"removeUnd",
+			"removeUn",
+			"hasName",
+			"hasType",
+			"remove",
+			"hasType",
+			"getBizTypes",
+			"errorVisi",
+			"errorVis",
+			"getPlaceZip",
+			"hasType",
+			"getBizTypes",
+			"ZipcodeResults",
+			"normResults",
+			"city",
+			"\"city\"",
+			"Zipcode",
+			"norm",
+			"getDistance",
+			"getPlaceZip",
+			"getPlaceCity",
+			"hasName",
+			"hasPlace",
+			"hasType",
+			"hasOption",
+			"getBox",
+			"hasZip",
+			"getBizTypes",
+			"sortDistance",
+			"dataTT",
+			"filteredBizByName",
+			"hasName",
+			"hasName(",
+			"hasName",
+			"hasName(",
+			"hasType",
+			"bizOptions",
+			"hasName",
+			"03",
+			"Options",
+			"All",
+			"-180",
+			"- 200",
+			"cur",
+			"situate",
+			"150",
+			"130",
+			"150",
+			"0x20",
+			"hover",
+			"display",
+			".policyContent",
+			"policyBody",
+			"-",
+			"getPlace",
+			"CITYY",
+			"CITY",
+			"CIT",
+			"CITYYYY",
+			"getDistance",
+			"sortPlaces",
+			"getPlaceCity",
+			"empty",
+			"$(\"#inner\").empty",
+			"normResults",
+			"list",
+			"getPlace2",
+			".filter",
+			"empty",
+			"\"Zipcode",
+			"\"norm\"",
+			"Inner",
+			"container",
+			"type",
+			"#type",
+			".type",
+			"search",
+			"1.2",
+			".friendC",
+			"0px 15",
+			"0px 15px",
+			".eventBlock",
+			"oswald",
+			"img",
+			"src",
+			"font-family",
+			"cta",
+			"pipelinePolicy",
+			"clicked",
+			"console",
+			"find",
+			"getPlaceCity",
+			"normResults",
+			"addElems",
+			"#search",
+			"search",
+			"active",
+			".title",
+			"partner with us",
+			"Zipcode",
+			"please input",
+			"arg",
+			"arg1",
+			"#inner"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"charWidth",
+			"removeUndefined",
+			"listOfBizTypes",
+			"filteredBizByName",
+			"+ shiftUp",
+			"+ shiftLeft",
+			"lastCity",
+			"180",
+			"150",
+			"180",
+			"+",
+			"#dropInner",
+			"slides2",
+			" ",
+			"#F2F2F2",
+			"carouselPos",
+			"",
+			"short",
+			"$(\"#dropInner\").empty()",
+			"getPlace",
+			"errorVisibility",
+			"instruction",
+			"CPU",
+			" = 0;",
+			"getPlaceZip(",
+			"$(\"#place\")",
+			"left; color:",
+			"float: left",
+			"opacity",
+			"",
+			"float: left",
+			" ",
+			"max",
+			"width: auto; mmax-width: 500px;",
+			"width: 100%",
+			"margin: 5% auto; font-family: Roboto black !important; padding",
+			"Normal !important; color",
+			"white; clear:both;text-align:center",
+			"500px;margin-left:150px; text-align: center",
+			"slab;color: white; text-align: center"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 3,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "etchy.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3050,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "test.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 248,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "test.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 103,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								100,
+								100
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "dome.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3199,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 30.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "etchy.sublime-project",
+	"replace":
+	{
+		"height": 80.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 188.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
