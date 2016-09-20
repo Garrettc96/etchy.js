@@ -2,3 +2,5 @@ test.html
 test.js
 *.sublime-project
 *.sublime-workspace
+etchy.sublime-project
+etchy.sublime-workspace
